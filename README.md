@@ -2,7 +2,7 @@
 Repository for demonstrating secure data management with Azure Key Vault and Always Encrypted as part of AZ-500 preparation.
 
 **Prerequisites:**
-✅ Azure Subscription 
+✅ Azure Subscription
 ✅ Azure SQL Database
 ✅ Azure Key Vault
 ✅ SQL Server Management Studio (SSMS)
